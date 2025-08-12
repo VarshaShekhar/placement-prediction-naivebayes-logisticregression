@@ -3,6 +3,7 @@
 This project aims to predict student placement outcomes (Placed or NotPlaced) based on academic performance, aptitude scores, and co-curricular factors. Two machine learning classifiers — **Naïve Bayes** and **Logistic Regression** — were implemented and compared.
 
 ---
+![Project Thumbnail](College-Placement-1.jpg)
 
 ## 📁 Dataset
 
